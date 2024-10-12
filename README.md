@@ -1,2 +1,2 @@
 # parcial1_ayso
-Parcial 1Arquitectura y Sistemas Operativos - Comisión 317
+Parcial 1 Arquitectura y Sistemas Operativos
